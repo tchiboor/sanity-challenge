@@ -1,0 +1,21 @@
+{
+  "name": "find_the_flag_sanity",
+  "namespace": "sanity",
+  "challenge_type": "custom",
+  "category": "General Skills",
+  "points": 10,
+  "description": "Somewhere in the file system there is a hidden text file containing the flag.",
+
+  "details": "This challenge showcases the knowledge of basic linux commands and the ability to perform lateral movements. Connect to the machine using SSH with username:user and password:userpass. Copy the folloing command to your terminal <code>ssh user@{{server}} -p {{port}}</code>.",
+
+  "hints": ["Do you know linux commands to search and list files?"],
+    "tags" : [
+        "general skills",
+        "custom",
+        "sanity check"
+    ],
+  "attributes": {
+    "organization": "ACI",
+    "event": "Sample"
+  }
+}

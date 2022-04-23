@@ -1,1 +1,1 @@
-# `custom` Challenge Type
+# `custom` Sanity Challenge
